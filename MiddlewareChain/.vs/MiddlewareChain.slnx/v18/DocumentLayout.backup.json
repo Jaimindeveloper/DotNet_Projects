@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AspDotNet_Projects\\DotNet_Projects\\MiddlewareChain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD9F2-950F-6FFD-A277-563CB675ED82}|MiddlewareChain\\MiddlewareChain.csproj|d:\\aspdotnet_projects\\dotnet_projects\\middlewarechain\\middlewarechain\\middleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD9F2-950F-6FFD-A277-563CB675ED82}|MiddlewareChain\\MiddlewareChain.csproj|solutionrelative:middlewarechain\\middleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD9F2-950F-6FFD-A277-563CB675ED82}|MiddlewareChain\\MiddlewareChain.csproj|d:\\aspdotnet_projects\\dotnet_projects\\middlewarechain\\middlewarechain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD9F2-950F-6FFD-A277-563CB675ED82}|MiddlewareChain\\MiddlewareChain.csproj|solutionrelative:middlewarechain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE3BD9F2-950F-6FFD-A277-563CB675ED82}|MiddlewareChain\\MiddlewareChain.csproj|d:\\aspdotnet_projects\\dotnet_projects\\middlewarechain\\middlewarechain\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE3BD9F2-950F-6FFD-A277-563CB675ED82}|MiddlewareChain\\MiddlewareChain.csproj|solutionrelative:middlewarechain\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginMiddleware.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\MiddlewareChain\\MiddlewareChain\\Middleware\\LoginMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareChain\\Middleware\\LoginMiddleware.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\MiddlewareChain\\MiddlewareChain\\Middleware\\LoginMiddleware.cs",
+              "RelativeToolTip": "MiddlewareChain\\Middleware\\LoginMiddleware.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:14:21.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\MiddlewareChain\\MiddlewareChain\\Middleware\\Middleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareChain\\Middleware\\Middleware.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\MiddlewareChain\\MiddlewareChain\\Middleware\\Middleware.cs",
+              "RelativeToolTip": "MiddlewareChain\\Middleware\\Middleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T07:39:01.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\MiddlewareChain\\MiddlewareChain\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareChain\\Program.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\MiddlewareChain\\MiddlewareChain\\Program.cs",
+              "RelativeToolTip": "MiddlewareChain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T07:32:30.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
