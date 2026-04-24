@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|d:\\aspdotnet_projects\\dotnet_projects\\ecommerce\\ecommerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|d:\\aspdotnet_projects\\dotnet_projects\\ecommerce\\ecommerce\\customvalidators\\productslistvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\customvalidators\\productslistvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|d:\\aspdotnet_projects\\dotnet_projects\\ecommerce\\ecommerce\\customvalidators\\minimumdatevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\customvalidators\\minimumdatevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|d:\\aspdotnet_projects\\dotnet_projects\\ecommerce\\ecommerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|d:\\aspdotnet_projects\\dotnet_projects\\ecommerce\\ecommerce\\customvalidators\\invoicepricevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\customvalidators\\invoicepricevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|d:\\aspdotnet_projects\\dotnet_projects\\ecommerce\\ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|d:\\aspdotnet_projects\\dotnet_projects\\ecommerce\\ecommerce\\helper\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\helper\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|d:\\aspdotnet_projects\\dotnet_projects\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DE9198-E1FC-43F8-262A-6F69B819A4BD}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsListValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "eCommerce\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "RelativeToolTip": "eCommerce\\CustomValidators\\ProductsListValidatorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:44:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinimumDateValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "eCommerce\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "RelativeToolTip": "eCommerce\\CustomValidators\\MinimumDateValidatorAttribute.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:40:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoicePriceValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "eCommerce\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "RelativeToolTip": "eCommerce\\CustomValidators\\InvoicePriceValidatorAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:30:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Helper\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Helper\\ValidationHelper.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Helper\\ValidationHelper.cs",
+              "RelativeToolTip": "eCommerce\\Helper\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:12:56.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Models\\Order.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Models\\Order.cs",
+              "RelativeToolTip": "eCommerce\\Models\\Order.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:03:59.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Models\\Product.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Models\\Product.cs",
+              "RelativeToolTip": "eCommerce\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:04:14.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "eCommerce\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:02:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Program.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Program.cs",
+              "ToolTip": "D:\\AspDotNet_Projects\\DotNet_Projects\\eCommerce\\eCommerce\\Program.cs",
+              "RelativeToolTip": "eCommerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:59:23.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
